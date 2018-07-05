@@ -1,0 +1,3 @@
+C:\Users\sgreen3\GitHub\TranscodingTest\TranscodingTest\obj\Debug\TranscodingTest.njsprojAssemblyReference.cache
+C:\Users\sgreen3\GitHub\TranscodingTest\TranscodingTest\obj\Debug\TranscodingTest.njsproj.CoreCompileInputs.cache
+C:\Users\sgreen3\GitHub\TranscodingTest\TranscodingTest\bin\Microsoft.NodejsTools.WebRole.dll
