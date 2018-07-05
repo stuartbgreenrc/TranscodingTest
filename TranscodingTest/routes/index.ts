@@ -8,4 +8,10 @@ router.get('/', (req: express.Request, res: express.Response) => {
     res.render('index', { title: 'Express' });
 });
 
+
+
+router.get('/test', (req: express.Request, res: express.Response) => {
+    res.render('test', { title: 'TEST STREAMING' });
+});
+
 export default router;
